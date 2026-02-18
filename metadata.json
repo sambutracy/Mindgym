@@ -1,0 +1,9 @@
+{
+  "name": "MindGym: The Cognitive Newspaper",
+  "description": "A daily cognitive newspaper where Gemini 3 trains human reasoning instead of replacing it.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
